@@ -106,6 +106,7 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT clone with Agents, MCP, multi-model support, and enterprise-ready features.
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - Self-hosted AI companion and VTuber platform capable of voice chat, game playing, and real-time interaction.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [daxaur/openpaw](https://github.com/daxaur/openpaw) - Open-source CLI tool that turns Claude Code into a personal assistant with 38 skills (Telegram, Discord, Obsidian, daily briefings, and more). Run via `npx pawmode`.
 - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP.
 - [character-ai/Ovi](https://github.com/character-ai/Ovi) - Experimental AI character interaction tool from the Character.ai team.
 - [qwersyk/Newelle](https://github.com/qwersyk/Newelle) - Newelle - Your Ultimate Virtual Assistant.
