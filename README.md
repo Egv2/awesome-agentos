@@ -203,6 +203,7 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)         | Fully autonomous AI agents system capable of performing complex penetration testing tasks end-to-end.                               | ![Stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=flat-square)     |
 | [samugit83/redamon](https://github.com/samugit83/redamon)         | AI-powered agentic red team framework that automates offensive security operations from recon to post-exploitation.                 | ![Stars](https://img.shields.io/github/stars/samugit83/redamon?style=flat-square)     |
 | [beelzebub-labs/azazel](https://github.com/beelzebub-labs/azazel) | eBPF-powered silent observer for containerized runtimes, built for malware analysis sandboxes and agentic AI monitoring.            | ![Stars](https://img.shields.io/github/stars/beelzebub-labs/azazel?style=flat-square) |
+| [onecli/onecli](https://github.com/onecli/onecli)               | Open-source credential vault for AI agents; Rust HTTP gateway injects API keys transparently so agents never handle raw secrets.   | ![Stars](https://img.shields.io/github/stars/onecli/onecli?style=flat-square)         |
 
 ---
 
