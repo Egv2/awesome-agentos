@@ -132,6 +132,7 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 | [generalaction/emdash](https://github.com/generalaction/emdash)                 | Open-source agentic development environment to run multiple coding agents in parallel with any provider.          | ![Stars](https://img.shields.io/github/stars/generalaction/emdash?style=flat-square)         |
 | [unbody-io/unbody](https://github.com/unbody-io/unbody)                         | The Supabase of the AI era - modular, open-source backend for building AI-native software designed for knowledge. | ![Stars](https://img.shields.io/github/stars/unbody-io/unbody?style=flat-square)             |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry)                 | Real-time observability dashboard for OpenClaw AI agents to visualize agent thinking.                             | ![Stars](https://img.shields.io/github/stars/vivekchand/clawmetry?style=flat-square)         |
+| [zenml-io/kitaru](https://github.com/zenml-io/kitaru)                           | Durable execution layer for AI agents with checkpoints, replay, resume, wait, and memory — no graph DSL required. | ![Stars](https://img.shields.io/github/stars/zenml-io/kitaru?style=flat-square)              |
 
 ## Productivity & Personal Assistants
 
