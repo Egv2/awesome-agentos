@@ -105,6 +105,7 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 
 ## Developer Tools & Infrastructure
 
+- [Prismfy Wizard](https://github.com/prismfy/prismfy-wizard) — CLI that installs persistent live web search rules into local AI agent workflows by adding a `prismfy-search` command and managed search-policy blocks to agent instruction files.
 | Name                                                                            | Description                                                                                                       | Stars                                                                                        |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | [BerriAI/litellm](https://github.com/BerriAI/litellm)                           | Python SDK and proxy server to call 100+ LLM APIs in a unified OpenAI format.                                     | ![Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square)              |
