@@ -210,3 +210,5 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Real-time monitoring dashboard for OpenClaw AI agents: token usage, session tracking, 7-day trends, WebSocket updates
