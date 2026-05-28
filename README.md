@@ -132,6 +132,8 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 | [generalaction/emdash](https://github.com/generalaction/emdash)                 | Open-source agentic development environment to run multiple coding agents in parallel with any provider.          | ![Stars](https://img.shields.io/github/stars/generalaction/emdash?style=flat-square)         |
 | [unbody-io/unbody](https://github.com/unbody-io/unbody)                         | The Supabase of the AI era - modular, open-source backend for building AI-native software designed for knowledge. | ![Stars](https://img.shields.io/github/stars/unbody-io/unbody?style=flat-square)             |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry)                 | Real-time observability dashboard for OpenClaw AI agents to visualize agent thinking.                             | ![Stars](https://img.shields.io/github/stars/vivekchand/clawmetry?style=flat-square)         |
+| [future-agi/future-agi](https://github.com/future-agi/future-agi)               | Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails in one feedback loop. | ![Stars](https://img.shields.io/github/stars/future-agi/future-agi?style=flat-square)        |
+| [future-agi/traceAI](https://github.com/future-agi/traceAI)                     | Open-source OpenTelemetry-native tracing for LLM and agent apps. Auto-instruments 50+ frameworks across Python, TypeScript, Java, and C# (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock). No vendor lock-in. | ![Stars](https://img.shields.io/github/stars/future-agi/traceAI?style=flat-square)           |
 
 ## Productivity & Personal Assistants
 
