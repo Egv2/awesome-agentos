@@ -159,6 +159,7 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)                         | Lightweight OpenClaw alternative that runs in containers for security; connects to WhatsApp, Telegram, Slack, Discord, Gmail with memory and scheduled jobs. | ![Stars](https://img.shields.io/github/stars/qwibitai/nanoclaw?style=flat-square)             |
 | [accomplish-ai/accomplish](https://github.com/accomplish-ai/accomplish)           | Open-source AI coworker that lives on your desktop and handles complex multi-step tasks autonomously.                                                        | ![Stars](https://img.shields.io/github/stars/accomplish-ai/accomplish?style=flat-square)      |
 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)                     | Open-source AI coworker with persistent memory for long-running collaborative tasks.                                                                         | ![Stars](https://img.shields.io/github/stars/rowboatlabs/rowboat?style=flat-square)           |
+| [skalesapp/skales](https://github.com/skalesapp/skales)                           | Local-first desktop AI agent; hand it a goal and it runs autonomously in the background, fully offline via Ollama or 15+ providers. Source-available (BSL-1.1).  | ![Stars](https://img.shields.io/github/stars/skalesapp/skales?style=flat-square)              |
 
 ## Data, OCR & Knowledge Graphs
 
