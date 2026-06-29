@@ -224,6 +224,7 @@ Chat interfaces, personal AI assistants, and productivity tools — the applicat
 | [souls-of-waifu/souls-of-waifu](https://github.com/souls-of-waifu/souls-of-waifu) | Self-hosted AI companion with voice chat and interactive capabilities.                                                         | ![Stars](https://img.shields.io/github/stars/souls-of-waifu/souls-of-waifu?style=flat-square) |
 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)                         | Lightweight OpenClaw alternative that runs in containers for security — connects to WhatsApp, Telegram, Slack, Discord, Gmail. | ![Stars](https://img.shields.io/github/stars/qwibitai/nanoclaw?style=flat-square)             |
 | [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox)           | A self-hosted email client with an AI agent, running entirely on Cloudflare.                                                   | ![Stars](https://img.shields.io/github/stars/cloudflare/agentic-inbox?style=flat-square)      |
+| [CorvinLabs/CorvinOS](https://github.com/CorvinLabs/CorvinOS)                     | Self-hosted agentic OS connecting Ollama and cloud LLMs to Discord, Telegram, WhatsApp, Slack & Email. EU AI Act 2026 + GDPR compliance are structural constraints — bot-disclosure, consent gate, audit chain, and erasure cannot be disabled by config. | ![Stars](https://img.shields.io/github/stars/CorvinLabs/CorvinOS?style=flat-square)           |
 
 ## MCP & Tool Integration
 
