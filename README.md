@@ -148,6 +148,7 @@ Code editors, coding agents, and development tools — the IDE layer.
 | [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX)                     | Desktop app providing a graphical interface for OpenClaw AI agents without using the terminal.                  | ![Stars](https://img.shields.io/github/stars/ValueCell-ai/ClawX?style=flat-square)           |
 | [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry)                 | Real-time observability dashboard for OpenClaw AI agents to visualize agent thinking.                           | ![Stars](https://img.shields.io/github/stars/vivekchand/clawmetry?style=flat-square)         |
 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)             | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, and more. | ![Stars](https://img.shields.io/github/stars/colbymchenry/codegraph?style=flat-square)       |
+| [multiplayer-app/multiplayer](https://github.com/multiplayer-app/multiplayer) | Self-hostable debugging agent that connects your favorite coding agents to full-stack, unsampled runtime data to catch and fix bugs automatically. | [![Stars](https://img.shields.io/github/stars/multiplayer-app/multiplayer?style=flat-square)](https://img.shields.io/github/stars/multiplayer-app/multiplayer?style=flat-square) |
 
 ## LLM Infrastructure & Model Serving
 
