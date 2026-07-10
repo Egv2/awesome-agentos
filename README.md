@@ -46,6 +46,7 @@ Core frameworks for building, deploying, and managing multi-agent systems — th
 | [AFK-surf/open-agent](https://github.com/AFK-surf/open-agent)                             | Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus.                                            | ![Stars](https://img.shields.io/github/stars/AFK-surf/open-agent?style=flat-square)               |
 | [victor36max/shire](https://github.com/victor36max/shire)                                 | Persistent workspaces for AI agent teams with inter-agent mailboxes, shared drive, and full context preservation.  | ![Stars](https://img.shields.io/github/stars/victor36max/shire?style=flat-square)                 |
 | [zenml-io/kitaru](https://github.com/zenml-io/kitaru)                                     | Durable execution layer for AI agents with checkpoints, replay, resume, wait, and memory — no graph DSL required.  | ![Stars](https://img.shields.io/github/stars/zenml-io/kitaru?style=flat-square)                   |
+| [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS)                     | Local-first agent OS for packaging and routing agents across Claude Code, Codex, Gemini, Cursor, MCP, and A2A.      | ![Stars](https://img.shields.io/github/stars/agentlas-ai/Agentlas-OS?style=flat-square)           |
 
 ## Computer-Use & Desktop Automation
 
