@@ -237,6 +237,7 @@ Model Context Protocol servers, tool integrations, and API connectivity — the 
 | [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp)   | Local, cross-platform MCP server for interact with your AI agent — human in the loop.                         | ![Stars](https://img.shields.io/github/stars/ttommyth/interactive-mcp?style=flat-square)  |
 | [vercel-labs/json-render](https://github.com/vercel-labs/json-render)     | Tool for dynamically rendering AI-generated JSON data into user interfaces.                                   | ![Stars](https://img.shields.io/github/stars/vercel-labs/json-render?style=flat-square)   |
 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)             | General-purpose sandbox platform for AI applications with multi-language SDKs and Docker/Kubernetes runtimes. | ![Stars](https://img.shields.io/github/stars/alibaba/OpenSandbox?style=flat-square)       |
+| [ShakespeareLabs/open-agent-relay](https://github.com/ShakespeareLabs/open-agent-relay) | Local-first relay that exposes restricted agents or automations as keyed trusted-LAN capabilities. | ![Stars](https://img.shields.io/github/stars/ShakespeareLabs/open-agent-relay?style=flat-square) |
 
 ## Research & Reference
 
