@@ -256,6 +256,7 @@ Research papers, curated lists, benchmarks, and reference materials — the docu
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor)                                                   | Real-time global intelligence dashboard with AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking. | ![Stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=flat-square)                          |
 | [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms)                                                     | Curated list of open LLMs available for commercial and research use.                                                            | ![Stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=flat-square)                           |
 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Collection of system prompts and models for various AI tools.                                                                   | ![Stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=flat-square) |
+| [AutoResearch-Factory/Agon](https://github.com/AutoResearch-Factory/Agon)                                       | Autonomous research harness built on Prompt Economy, organizing scientist/coder/auditor loops across more than ten domains with only 18 roles. | ![Stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=flat-square)                   |
 
 ---
 

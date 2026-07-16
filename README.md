@@ -232,6 +232,7 @@ Research papers, curated lists, benchmarks, and reference materials.
 - [OmniVinci](https://github.com/NVlabs/OmniVinci) - Omni-modal LLM for joint understanding of vision, audio, and language.
 - [WorldMonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard with AI-powered news aggregation and monitoring.
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - Curated list of open LLMs available for commercial and research use.
+- [Agon](https://github.com/AutoResearch-Factory/Agon) - Autonomous research harness built on Prompt Economy, organizing scientist/coder/auditor loops across more than ten domains with a 30-day unattended run.
 - [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - Collection of system prompts and models for various AI tools.
 
 ## Contributing
