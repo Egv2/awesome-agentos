@@ -205,6 +205,7 @@ Chat interfaces, personal AI assistants, and productivity tools.
 - [Souls of Waifu](https://github.com/souls-of-waifu/souls-of-waifu) - Self-hosted AI companion with voice chat and interactive capabilities.
 - [Nanoclaw](https://github.com/qwibitai/nanoclaw) - Lightweight OpenClaw alternative that runs in containers and connects to multiple messaging platforms.
 - [Agentic Inbox](https://github.com/cloudflare/agentic-inbox) - Self-hosted email client with an AI agent, running on Cloudflare Workers.
+- [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI, reachable over Telegram, Slack, Discord, and Matrix.
 
 ## MCP & Tool Integration
 
