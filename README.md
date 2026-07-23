@@ -188,6 +188,7 @@ Chat interfaces, personal AI assistants, and productivity tools.
 - [LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT clone with Agents, MCP, multi-model support, and enterprise features.
 - [Airi](https://github.com/moeru-ai/airi) - Self-hosted AI companion and VTuber platform with voice chat and real-time interaction.
 - [OpenClaw](https://github.com/openclaw/openclaw) - Personal AI assistant that runs on any OS and any platform.
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Coordinates specialist AI agents in a local-first desktop application.
 - [Osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS that runs local or cloud models with MCP tool sharing.
 - [Ovi](https://github.com/character-ai/Ovi) - Experimental AI character interaction tool from the Character.ai team.
 - [Newelle](https://github.com/qwersyk/Newelle) - Virtual assistant application for desktop environments.
