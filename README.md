@@ -43,6 +43,7 @@ Frameworks for building, deploying, and managing multi-agent systems.
 - [Shire](https://github.com/victor36max/shire) - Persistent workspaces for AI agent teams with inter-agent mailboxes and shared drive.
 - [Kitaru](https://github.com/zenml-io/kitaru) - Durable execution layer for AI agents with checkpoints, replay, resume, and memory.
 - [Mastra](https://github.com/mastra-ai/mastra) - TypeScript framework for building AI-powered applications and agents.
+- [fractal](https://github.com/plasma-ai/fractal) - Runs persistent hierarchical coding-agent loops with recursive delegation, isolated Git worktrees, durable state, and configurable cost, time, depth, and iteration limits.
 
 ## Computer-Use & Desktop Automation
 
