@@ -21,6 +21,7 @@
 
 Frameworks for building, deploying, and managing multi-agent systems.
 
+- [AOHP](https://github.com/aohp-os/aohp) - OS-level agent harness that lets the OS proactively adapt to its user via agentic AI, enabling personalized, efficient and secure interaction.
 - [Goose](https://github.com/block/goose) - On-machine AI agent that automates development tasks with MCP support.
 - [Eliza](https://github.com/elizaOS/eliza) - Multi-agent simulation framework with Discord, Telegram, and Twitter integration.
 - [n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities and 400+ integrations.
