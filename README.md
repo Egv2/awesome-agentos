@@ -43,6 +43,7 @@ Frameworks for building, deploying, and managing multi-agent systems.
 - [Shire](https://github.com/victor36max/shire) - Persistent workspaces for AI agent teams with inter-agent mailboxes and shared drive.
 - [Kitaru](https://github.com/zenml-io/kitaru) - Durable execution layer for AI agents with checkpoints, replay, resume, and memory.
 - [Mastra](https://github.com/mastra-ai/mastra) - TypeScript framework for building AI-powered applications and agents.
+- [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Packages and routes specialist agents across Claude Code, Codex, Gemini CLI, Cursor, and local models with permission and verification gates.
 
 ## Computer-Use & Desktop Automation
 
