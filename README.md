@@ -35,6 +35,7 @@ Frameworks for building, deploying, and managing multi-agent systems.
 - [Open Interpreter](https://github.com/open-interpreter/open-interpreter) - Open-source AI agent that executes code on your computer to perform tasks.
 - [Huginn](https://github.com/huginn/huginn) - System for creating agents that monitor and act on your behalf across the web.
 - [NextPy](https://github.com/dot-agent/nextpy) - Self-modifying framework for building agentic modular systems.
+- [Ouroboros](https://github.com/razzant/ouroboros) - Runs general-purpose tasks through a desktop app or headless CLI, coordinates specialist agents, preserves identity and memory across restarts, and can modify its own implementation through reviewed Git commits.
 - [DeerFlow](https://github.com/bytedance/deer-flow) - Open-source SuperAgent harness with sandboxes, memories, tools, and subagents.
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Adaptive AI agent platform built on the Hermes model family.
 - [RowBoat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker with persistent memory for long-running tasks.
