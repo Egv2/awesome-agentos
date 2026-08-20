@@ -1,6 +1,6 @@
 # Awesome AgentOS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Tools, frameworks, and platforms for building agentic operating systems.
+> Software platforms that coordinate AI agents with tools, voice, vision, memory, and durable execution as one operating environment.
 
 ## Contents
 
@@ -13,9 +13,9 @@
 - [LLM Infrastructure & Model Serving](#llm-infrastructure--model-serving)
 - [Security & Offensive AI](#security--offensive-ai)
 - [Data, Memory & Knowledge](#data-memory--knowledge)
+- [Datasets & Benchmarks](#datasets--benchmarks)
 - [Productivity & Personal Assistants](#productivity--personal-assistants)
 - [MCP & Tool Integration](#mcp--tool-integration)
-- [Research & Reference](#research--reference)
 
 ## Agent Frameworks & Orchestrators
 
@@ -43,6 +43,8 @@ Frameworks for building, deploying, and managing multi-agent systems.
 - [Shire](https://github.com/victor36max/shire) - Persistent workspaces for AI agent teams with inter-agent mailboxes and shared drive.
 - [Kitaru](https://github.com/zenml-io/kitaru) - Durable execution layer for AI agents with checkpoints, replay, resume, and memory.
 - [Mastra](https://github.com/mastra-ai/mastra) - TypeScript framework for building AI-powered applications and agents.
+- [Auto-Company](https://github.com/MaxMiksa/Auto-Company) - Multi-agent system that operates autonomously on your own PC across Windows, Linux, and macOS.
+- [kami](https://github.com/kami-community/kami) - Automating content and outreach with multi-agent coordination for early-stage startups.
 
 ## Computer-Use & Desktop Automation
 
@@ -96,6 +98,9 @@ Text-to-speech, speech-to-text, voice assistants, and real-time audio systems.
 - [LiveKit Agents](https://github.com/livekit/agents) - Framework for building realtime voice AI agents with audio and video pipelines.
 - [Jarvis](https://github.com/isair/jarvis) - Private AI voice assistant that runs offline on your computer.
 - [Pocket TTS](https://github.com/kyutai-labs/pocket-tts) - Text-to-speech model designed to run efficiently on consumer CPUs.
+- [NeuTTS](https://github.com/neuphonic/neutts) - On-device text-to-speech model by Neuphonic for private voice synthesis.
+- [Fish Speech](https://github.com/fishaudio/fish-speech) - State-of-the-art open-source text-to-speech engine.
+- [MisoTTS](https://github.com/MisoLabsAI/MisoTTS) - 8-billion parameter text-to-speech model for highly emotive voice generation.
 
 ## Visual & Creative AI
 
@@ -130,9 +135,7 @@ Code editors, coding agents, and development tools.
 - [Oh My OpenAgent](https://github.com/code-yeongyu/oh-my-openagent) - Batteries-included agent harness for complex codebases.
 - [Open Lovable](https://github.com/firecrawl/open-lovable) - Tool for cloning and recreating websites as modern React apps using AI.
 - [Dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users.
-- [PicoClaw](https://github.com/sipeed/picoclaw) - Lightweight tool for automating development tasks.
 - [Emdash](https://github.com/generalaction/emdash) - Open-source agentic development environment for running multiple coding agents in parallel.
-- [OLLM](https://github.com/Mega4alik/ollm) - Lightweight local LLM management and interaction toolkit.
 - [ClawX](https://github.com/ValueCell-ai/ClawX) - Desktop app providing a graphical interface for OpenClaw AI agents.
 - [Clawmetry](https://github.com/vivekchand/clawmetry) - Real-time observability dashboard for OpenClaw AI agents.
 - [CodeGraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph that auto-syncs on code changes for multiple AI coding tools.
@@ -146,8 +149,6 @@ Model hosting, fine-tuning, API gateways, and inference optimization.
 - [LocalAI](https://github.com/mudler/LocalAI) - Self-hosted, local-first open-source alternative to OpenAI and Claude APIs.
 - [Unsloth](https://github.com/unslothai/unsloth) - Fine-tuning and reinforcement learning framework for LLMs.
 - [LLMFit](https://github.com/AlexsJones/llmfit) - Tool for discovering hundreds of models across providers to find what runs on your hardware.
-- [MiniMind](https://github.com/jingyaogong/minimind) - Educational project for training small-parameter GPT models from scratch.
-- [Step 3.5 Flash](https://github.com/stepfun-ai/Step-3.5-Flash) - Agentic intelligence model optimized for speed and accuracy.
 - [Headroom](https://github.com/headroomlabs-ai/headroom) - Tool for compressing tool outputs, logs, files, and RAG chunks before they reach the LLM.
 
 ## Security & Offensive AI
@@ -181,6 +182,14 @@ OCR, knowledge graphs, memory systems, and data infrastructure.
 - [memU](https://github.com/NevaMind-AI/memU) - Memory system designed for 24/7 proactive agents.
 - [Unbody](https://github.com/unbody-io/unbody) - Modular, open-source backend for building AI-native software designed for knowledge.
 
+## Datasets & Benchmarks
+
+Open datasets, evaluation benchmarks, and reference collections for agent systems.
+
+- [Open LLMs](https://github.com/eugeneyan/open-llms) - Curated list of open LLMs available for commercial and research use.
+- [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - Collection of system prompts and models for various AI tools.
+- [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) - Principles for building LLM-powered software that is production-ready.
+
 ## Productivity & Personal Assistants
 
 Chat interfaces, personal AI assistants, and productivity tools.
@@ -193,17 +202,10 @@ Chat interfaces, personal AI assistants, and productivity tools.
 - [Newelle](https://github.com/qwersyk/Newelle) - Virtual assistant application for desktop environments.
 - [Chat UI](https://github.com/huggingface/chat-ui) - Open source codebase powering Hugging Face Chat with multi-model support.
 - [Omi](https://github.com/BasedHardware/omi) - AI wearable device for real-time transcription and speech processing.
-- [Chatbox](https://github.com/chatboxai/chatbox) - Versatile AI client supporting multiple models for daily productivity.
-- [APT](https://github.com/rnchg/APT) - AI productivity tool with built-in local ChatGPT and privacy-focused models.
 - [Khoj](https://github.com/khoj-ai/khoj) - AI second brain for searching documents, the web, and building custom agents.
 - [Eigent](https://github.com/eigent-ai/eigent) - Open-source coworker desktop application for individual productivity.
 - [Jan](https://github.com/janhq/jan) - Open-source alternative to ChatGPT that runs offline on your machine.
-- [System](https://github.com/ygwyg/system) - AI-powered tool for controlling your Mac remotely.
 - [Open WebUI](https://github.com/open-webui/open-webui) - Self-hosted web interface for interacting with various LLMs.
-- [SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM frontend designed for power users and roleplay.
-- [Second Me](https://github.com/mindverse/Second-Me) - Platform for training your AI self and amplifying your digital presence.
-- [Souls of Waifu](https://github.com/souls-of-waifu/souls-of-waifu) - Self-hosted AI companion with voice chat and interactive capabilities.
-- [Nanoclaw](https://github.com/qwibitai/nanoclaw) - Lightweight OpenClaw alternative that runs in containers and connects to multiple messaging platforms.
 - [Agentic Inbox](https://github.com/cloudflare/agentic-inbox) - Self-hosted email client with an AI agent, running on Cloudflare Workers.
 
 ## MCP & Tool Integration
@@ -216,23 +218,6 @@ Model Context Protocol servers, tool integrations, and API connectivity.
 - [Interactive MCP](https://github.com/ttommyth/interactive-mcp) - Local, cross-platform MCP server for human-in-the-loop interaction with AI agents.
 - [JSON Render](https://github.com/vercel-labs/json-render) - Tool for dynamically rendering AI-generated JSON data into user interfaces.
 - [OpenSandbox](https://github.com/alibaba/OpenSandbox) - General-purpose sandbox platform for AI applications with multi-language SDKs.
-
-## Research & Reference
-
-Research papers, curated lists, benchmarks, and reference materials.
-
-- [SRT AI](https://github.com/yazinsai/srt-ai) - Tool for translating SRT subtitle files to any language using AI.
-- [LLM Subtrans](https://github.com/machinewrapped/llm-subtrans) - Open-source project using LLMs to translate subtitles across formats.
-- [SmolVLM Realtime Webcam](https://github.com/ngxson/smolvlm-realtime-webcam) - Real-time webcam demo with SmolVLM and llama.cpp server.
-- [Deep Research Agent](https://github.com/SkyworkAI/DeepResearchAgent) - Hierarchical multi-agent system for deep research and complex task solving.
-- [Dexter](https://github.com/virattt/dexter) - Autonomous AI agent specialized in deep financial research and analysis.
-- [LightRAG](https://github.com/HKUDS/LightRAG) - Simple and fast framework for retrieval-augmented generation.
-- [Moondream](https://github.com/vikhyat/moondream) - Tiny vision-language model optimized for edge devices and efficiency.
-- [SAM 3D Body](https://github.com/facebookresearch/sam-3d-body) - Inference code and models for the Segment Anything Model in 3D.
-- [OmniVinci](https://github.com/NVlabs/OmniVinci) - Omni-modal LLM for joint understanding of vision, audio, and language.
-- [WorldMonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard with AI-powered news aggregation and monitoring.
-- [Open LLMs](https://github.com/eugeneyan/open-llms) - Curated list of open LLMs available for commercial and research use.
-- [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - Collection of system prompts and models for various AI tools.
 
 ## Contributing
 
