@@ -45,6 +45,8 @@ Frameworks for building, deploying, and managing multi-agent systems.
 - [Mastra](https://github.com/mastra-ai/mastra) - TypeScript framework for building AI-powered applications and agents.
 - [Auto-Company](https://github.com/MaxMiksa/Auto-Company) - Multi-agent system that operates autonomously on your own PC across Windows, Linux, and macOS.
 - [kami](https://github.com/kami-community/kami) - Automating content and outreach with multi-agent coordination for early-stage startups.
+- [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first multi-agent orchestration layer for Claude Code with parallel execution.
+- [nodetool](https://github.com/nodetool-ai/nodetool) - Open-source, agent-first creative workspace with node-based workflows and multi-provider LLM support.
 
 ## Computer-Use & Desktop Automation
 
@@ -99,7 +101,7 @@ Text-to-speech, speech-to-text, voice assistants, and real-time audio systems.
 - [Jarvis](https://github.com/isair/jarvis) - Private AI voice assistant that runs offline on your computer.
 - [Pocket TTS](https://github.com/kyutai-labs/pocket-tts) - Text-to-speech model designed to run efficiently on consumer CPUs.
 - [NeuTTS](https://github.com/neuphonic/neutts) - On-device text-to-speech model by Neuphonic for private voice synthesis.
-- [Fish Speech](https://github.com/fishaudio/fish-speech) - State-of-the-art open-source text-to-speech engine.
+- [Fish Speech](https://github.com/fishaudio/fish-speech) - Open-source text-to-speech engine with multilingual voice cloning.
 - [MisoTTS](https://github.com/MisoLabsAI/MisoTTS) - 8-billion parameter text-to-speech model for highly emotive voice generation.
 
 ## Visual & Creative AI
@@ -140,6 +142,7 @@ Code editors, coding agents, and development tools.
 - [Clawmetry](https://github.com/vivekchand/clawmetry) - Real-time observability dashboard for OpenClaw AI agents.
 - [CodeGraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph that auto-syncs on code changes for multiple AI coding tools.
 - [Persona](https://github.com/runtypelabs/persona) - Toolkit for creating agentic front-end experiences for the web with WebMCP support.
+- [CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - Multi-agent coding orchestration platform for parallel AI-assisted development.
 
 ## LLM Infrastructure & Model Serving
 
@@ -150,6 +153,7 @@ Model hosting, fine-tuning, API gateways, and inference optimization.
 - [Unsloth](https://github.com/unslothai/unsloth) - Fine-tuning and reinforcement learning framework for LLMs.
 - [LLMFit](https://github.com/AlexsJones/llmfit) - Tool for discovering hundreds of models across providers to find what runs on your hardware.
 - [Headroom](https://github.com/headroomlabs-ai/headroom) - Tool for compressing tool outputs, logs, files, and RAG chunks before they reach the LLM.
+- [freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks free tiers of 28 LLM providers behind a single endpoint with smart routing and failover.
 
 ## Security & Offensive AI
 
@@ -181,6 +185,7 @@ OCR, knowledge graphs, memory systems, and data infrastructure.
 - [Memori](https://github.com/MemoriLabs/Memori) - SQL-native memory layer for LLMs, AI agents, and multi-agent systems.
 - [memU](https://github.com/NevaMind-AI/memU) - Memory system designed for 24/7 proactive agents.
 - [Unbody](https://github.com/unbody-io/unbody) - Modular, open-source backend for building AI-native software designed for knowledge.
+- [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Turns codebases into interactive knowledge graphs for AI agents to explore, search, and query.
 
 ## Datasets & Benchmarks
 
