@@ -23,6 +23,7 @@ Frameworks for building, deploying, and managing multi-agent systems.
 
 - [Goose](https://github.com/block/goose) - On-machine AI agent that automates development tasks with MCP support.
 - [Eliza](https://github.com/elizaOS/eliza) - Multi-agent simulation framework with Discord, Telegram, and Twitter integration.
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - [n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities and 400+ integrations.
 - [Sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [Flowise](https://github.com/FlowiseAI/Flowise) - Drag-and-drop interface for building LLM orchestration flows and AI agents.
