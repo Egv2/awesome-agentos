@@ -66,6 +66,7 @@ Agents that control desktops, interact with operating systems, and automate comp
 - [HolaOS](https://github.com/holaboss-ai/holaOS) - Local-first agent for work that learns your working context and retains it.
 - [Autonomous Computer](https://github.com/autonomous-ai/autonomous-computer) - Toolkit for building a personal AI computer.
 - [Skales](https://github.com/skalesapp/skales) - Local-first desktop AI agent that runs offline via Ollama or 15+ providers.
+- [Superagent](https://github.com/pungme/superagent-desktop) - Open-source macOS app giving Claude Code and Codex a real browser, an iOS Simulator, and a phone companion app to act through.
 
 ## Web Agents & Browser Automation
 
