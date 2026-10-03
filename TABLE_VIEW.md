@@ -147,6 +147,7 @@
 | [Unbody](https://github.com/unbody-io/unbody) | 522 | Data & Knowledge | Modular, open-source backend for building AI-native software designed for knowledge |
 | [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 84.7k | Data & Knowledge | Turns codebases into interactive knowledge graphs for AI agents to explore, search, and query |
 | [OpenMed](https://github.com/maziyarpanahi/openmed) | 5.4k | Data & Knowledge | Local-first clinical NLP toolkit for medical entity recognition and HIPAA PII de-identification that runs entirely on-device |
+| [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | 3 | Data & Knowledge | Stores encrypted, append-only knowledge and gives agents scoped, expiring access through a Rust CLI and MCP server (developer alpha) |
 | [Open LLMs](https://github.com/eugeneyan/open-llms) | 12.9k | Datasets & Benchmarks | Curated list of open LLMs available for commercial and research use |
 | [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 144k | Datasets & Benchmarks | Collection of system prompts and models for various AI tools |
 | [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) | 26.5k | Datasets & Benchmarks | Principles for building LLM-powered software that is production-ready |
