@@ -204,6 +204,7 @@ OCR, knowledge graphs, memory systems, and data infrastructure.
 - [Unbody](https://github.com/unbody-io/unbody) - Modular, open-source backend for building AI-native software designed for knowledge.
 - [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Turns codebases into interactive knowledge graphs for AI agents to explore, search, and query.
 - [OpenMed](https://github.com/maziyarpanahi/openmed) - Local-first clinical NLP toolkit for medical entity recognition and HIPAA PII de-identification that runs entirely on-device.
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Stores encrypted, append-only knowledge and gives agents scoped, expiring access through a Rust CLI and MCP server (developer alpha).
 
 ## Datasets & Benchmarks
 
