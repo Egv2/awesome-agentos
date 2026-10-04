@@ -213,6 +213,7 @@ Open datasets, evaluation benchmarks, and reference collections for agent system
 - [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - Collection of system prompts and models for various AI tools.
 - [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) - Principles for building LLM-powered software that is production-ready.
 - [Harness Engineering](https://github.com/lopopolo/harness-engineering) - Field guide and anthology on harness engineering: improving agent output by curating the context, tools, and environment around a model.
+- [AgentLeak](https://github.com/yagobski/agentleak) - Privacy-leakage benchmark for multi-agent LLM systems: 7 internal communication pathways, 1,000 scenarios (IEEE Access 2026); open-source testing toolkit.
 
 ## Productivity & Personal Assistants
 
