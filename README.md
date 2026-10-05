@@ -157,6 +157,7 @@ Code editors, coding agents, and development tools.
 - [Mysti](https://github.com/DeepMyst/Mysti) - AI coding dream team of agents for VS Code that debate and synthesize solutions.
 - [Ponytail](https://github.com/DietrichGebert/ponytail) - Agent skill and rules package that steers coding agents toward writing minimal code.
 - [OpenClaude](https://github.com/Twigpine/openclaude) - Open-source coding-agent CLI that works with cloud and local model providers, with tools, agents, and MCP support.
+- [Orbi](https://github.com/orbi-build/orbi) - Self-hosted autonomous coding agent that takes labelled GitHub issues through PR, independent review, merge, and tagged release.
 
 ## LLM Infrastructure & Model Serving
 
