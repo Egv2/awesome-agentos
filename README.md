@@ -21,6 +21,8 @@
 
 Frameworks for building, deploying, and managing multi-agent systems.
 
+- [Kortix](https://github.com/kortix-ai/suna) - Open-source AI Operating System: agents, skills, company memory and connectors in one git repo you own, with each session on its own isolated cloud computer and every change landing as a reviewed pull request.
+
 - [Goose](https://github.com/block/goose) - On-machine AI agent that automates development tasks with MCP support.
 - [Eliza](https://github.com/elizaOS/eliza) - Multi-agent simulation framework with Discord, Telegram, and Twitter integration.
 - [n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities and 400+ integrations.
