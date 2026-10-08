@@ -54,6 +54,8 @@ Frameworks for building, deploying, and managing multi-agent systems.
 - [Pi](https://github.com/earendil-works/pi) - Agent toolkit providing a unified multi-provider LLM API, an agent runtime with tool calling, a terminal UI, and a self-extensible coding agent CLI.
 - [MiroFish](https://github.com/666ghj/MiroFish) - Swarm-intelligence engine that builds multi-agent simulated worlds from seed data to explore predictions and social dynamics.
 
+- [Tale](https://github.com/tale-project/tale) - Coordinates coding-agent tasks in persistent sandboxes and lets teams review reports and deliverables in a shared project workspace.
+
 ## Computer-Use & Desktop Automation
 
 Agents that control desktops, interact with operating systems, and automate computer tasks.
