@@ -82,6 +82,7 @@ Browser control, web scraping, and internet interaction agents.
 - [Browserless](https://github.com/browserless/browserless) - Headless browser deployment platform for Docker and cloud environments.
 - [Vibe Eyes](https://github.com/monteslu/vibe-eyes) - MCP server that enables LLMs to see and interact with browser-based applications.
 - [Browser Harness](https://github.com/browser-use/browser-harness) - Self-healing harness that enables LLMs to complete browser tasks.
+- [Jet Browser](https://github.com/masakaai/jet-browser) - Runs isolated WPE WebKit browser sessions for agents with native input, screenshots, DOM verification, and ordered JSONL.
 - [Agent Reach](https://github.com/Panniantong/Agent-Reach) - Tool for giving AI agents access to Twitter, Reddit, YouTube, GitHub, and more.
 - [AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent that browses, clicks, types, and reads the web from plain-English instructions, available as an MCP server (Claude Code, Codex, Gemini CLI) or a standalone web UI.
 - [browser-use](https://github.com/browser-use/browser-use) - Library for building agents that see, navigate, and interact with web browsers.
