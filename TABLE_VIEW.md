@@ -36,6 +36,7 @@
 | [Atomic Agents](https://github.com/Eigenwise/atomic-agents) | 6.3k | Agent Frameworks | Lightweight Python framework for building agentic pipelines from composable, single-purpose components built on Pydantic and Instructor |
 | [Pi](https://github.com/earendil-works/pi) | 110.4k | Agent Frameworks | Agent toolkit providing a unified multi-provider LLM API, an agent runtime with tool calling, a terminal UI, and a self-extensible coding agent CLI |
 | [MiroFish](https://github.com/666ghj/MiroFish) | 75.3k | Agent Frameworks | Swarm-intelligence engine that builds multi-agent simulated worlds from seed data to explore predictions and social dynamics |
+| [Agon](https://github.com/AutoResearch-Factory/Agon) | 54 | Agent Frameworks | Runs multi-agent research loops as a Claude Code plugin, taking a bare topic all the way to running experiments with no human-written experimental code |
 | [Puter](https://github.com/HeyPuter/puter) | 43.6k | Computer Use | Open-source, self-hostable cloud desktop operating system |
 | [Agent-S](https://github.com/simular-ai/Agent-S) | 12.4k | Computer Use | Open agentic framework designed to use computers like a human |
 | [UI-TARS Desktop](https://github.com/bytedance/UI-TARS-desktop) | 39.2k | Computer Use | Open-source multimodal AI agent stack for desktop automation |
