@@ -87,6 +87,7 @@ Browser control, web scraping, and internet interaction agents.
 - [browser-use](https://github.com/browser-use/browser-use) - Library for building agents that see, navigate, and interact with web browsers.
 - [Stagehand](https://github.com/browserbase/stagehand) - SDK built on Playwright for authoring browser agents that extract data and interact with websites.
 - [Lightpanda](https://github.com/lightpanda-io/browser) - Headless browser written in Zig, built for AI and automation, compatible with CDP, Playwright, and Puppeteer.
+- [navigera](https://github.com/andrey-usa/navigera) - Drives Chrome or Lightpanda over CDP for AI agents, returning accessibility-tree snapshots with element refs from a single Rust binary with persistent sessions and an MCP server.
 
 ## Voice & Conversational AI
 
