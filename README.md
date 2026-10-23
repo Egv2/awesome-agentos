@@ -53,6 +53,7 @@ Frameworks for building, deploying, and managing multi-agent systems.
 - [Atomic Agents](https://github.com/Eigenwise/atomic-agents) - Lightweight Python framework for building agentic pipelines from composable, single-purpose components built on Pydantic and Instructor.
 - [Pi](https://github.com/earendil-works/pi) - Agent toolkit providing a unified multi-provider LLM API, an agent runtime with tool calling, a terminal UI, and a self-extensible coding agent CLI.
 - [MiroFish](https://github.com/666ghj/MiroFish) - Swarm-intelligence engine that builds multi-agent simulated worlds from seed data to explore predictions and social dynamics.
+- [fractal](https://github.com/plasma-ai/fractal) - Runs persistent hierarchical coding-agent loops with recursive delegation, isolated Git worktrees, durable state, and configurable cost, time, depth, and iteration limits.
 
 ## Computer-Use & Desktop Automation
 
