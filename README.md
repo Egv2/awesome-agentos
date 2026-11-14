@@ -246,6 +246,7 @@ Model Context Protocol servers, tool integrations, and API connectivity.
 - [JSON Render](https://github.com/vercel-labs/json-render) - Tool for dynamically rendering AI-generated JSON data into user interfaces.
 - [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - General-purpose sandbox platform for AI applications with multi-language SDKs.
 - [Monid](https://github.com/monid-ai/monid) - Unified gateway giving agents access to 2,000+ tools across multiple providers, with endpoint discovery and per-call metering.
+- [Datacircle](https://github.com/waynehamadi/datacircle) - Lets agents compare GTM data APIs by price, limits and score through an open MCP server and API with no key.
 
 ## Contributing
 
