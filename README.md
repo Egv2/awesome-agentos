@@ -246,6 +246,7 @@ Model Context Protocol servers, tool integrations, and API connectivity.
 - [JSON Render](https://github.com/vercel-labs/json-render) - Tool for dynamically rendering AI-generated JSON data into user interfaces.
 - [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - General-purpose sandbox platform for AI applications with multi-language SDKs.
 - [Monid](https://github.com/monid-ai/monid) - Unified gateway giving agents access to 2,000+ tools across multiple providers, with endpoint discovery and per-call metering.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server for searching 18,000+ verified independent live-music venues, booking contacts, and tour routing across the US and Canada.
 
 ## Contributing
 
