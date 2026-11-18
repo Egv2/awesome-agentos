@@ -53,6 +53,7 @@ Frameworks for building, deploying, and managing multi-agent systems.
 - [Atomic Agents](https://github.com/Eigenwise/atomic-agents) - Lightweight Python framework for building agentic pipelines from composable, single-purpose components built on Pydantic and Instructor.
 - [Pi](https://github.com/earendil-works/pi) - Agent toolkit providing a unified multi-provider LLM API, an agent runtime with tool calling, a terminal UI, and a self-extensible coding agent CLI.
 - [MiroFish](https://github.com/666ghj/MiroFish) - Swarm-intelligence engine that builds multi-agent simulated worlds from seed data to explore predictions and social dynamics.
+- [Dapr Agents](https://github.com/dapr/dapr-agents) - Runs AI agents as durable workflows on Dapr, checkpointing each LLM call and tool invocation so a crashed run resumes where it stopped.
 
 ## Computer-Use & Desktop Automation
 
