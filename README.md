@@ -79,6 +79,7 @@ Browser control, web scraping, and internet interaction agents.
 - [Agentic AI Browser](https://github.com/esinecan/agentic-ai-browser) - AI-driven web automation agent using Playwright for decision-making.
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source, LLM-friendly web crawler and scraper for AI data gathering.
 - [WebVoyager](https://github.com/MinorJerry/WebVoyager) - End-to-end web agent framework powered by large multimodal models.
+- [easi.run](https://github.com/julianosig/easi.run) - Provides self-hosted Chrome sessions for agents via MCP, with action timelines and replay.
 - [Browserless](https://github.com/browserless/browserless) - Headless browser deployment platform for Docker and cloud environments.
 - [Vibe Eyes](https://github.com/monteslu/vibe-eyes) - MCP server that enables LLMs to see and interact with browser-based applications.
 - [Browser Harness](https://github.com/browser-use/browser-harness) - Self-healing harness that enables LLMs to complete browser tasks.
