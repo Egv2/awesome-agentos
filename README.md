@@ -234,6 +234,7 @@ Chat interfaces, personal AI assistants, and productivity tools.
 - [Agentic Inbox](https://github.com/cloudflare/agentic-inbox) - Self-hosted email client with an AI agent, running on Cloudflare Workers.
 - [Rakazo](https://github.com/elie222/rakazo) - Self-hostable platform for running persistent AI teammates with memory, routines, voice mode, and browser, terminal, and desktop access across web, desktop, and mobile apps.
 - [Feynman](https://github.com/Companion-Inc/feynman) - CLI research agent for literature review, deep research, paper critique, and replication planning with citation tracking.
+- [Dooza Crew](https://www.dooza.ai/crew) - Hosted team of AI employees with their own cloud computer, browser, email, and phone calls for small businesses.
 
 ## MCP & Tool Integration
 
